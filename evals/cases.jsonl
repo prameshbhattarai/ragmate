@@ -1,0 +1,13 @@
+{"id": "vacation-days", "question": "How many days of holiday do I get each year?", "expect_route": "docs", "expect_source": "nimbus-handbook.md", "reference": "vacation days per calendar year"}
+{"id": "carry-over", "question": "Can I take unused leave into next year, and until when?", "expect_route": "docs", "expect_source": "nimbus-handbook.md", "reference": "unused vacation days carried over expire"}
+{"id": "hotel-limit", "question": "What's the maximum I can spend on a hotel per night?", "expect_route": "docs", "expect_source": "nimbus-handbook.md", "reference": "hotel costs reimbursed per night"}
+{"id": "friday-demo", "question": "When is the weekly demo?", "expect_route": "docs", "expect_source": "nimbus-handbook.md", "reference": "weekly demo Fridays Roastery"}
+{"id": "home-office", "question": "Is there money for a desk chair at home?", "expect_route": "docs", "expect_source": "nimbus-handbook.md", "reference": "home-office budget chair monitor"}
+{"id": "what-is-rag", "question": "What does retrieval-augmented generation mean?", "expect_route": "docs", "expect_source": "rag-glossary.md", "reference": "Retrieval-Augmented Generation answers retrieves generates"}
+{"id": "chunk-size", "question": "Why shouldn't chunks be too big?", "expect_route": "docs", "expect_source": "rag-glossary.md", "reference": "chunks too large blur topics vector"}
+{"id": "mmr", "question": "How is MMR different from plain similarity search?", "expect_route": "docs", "expect_source": "rag-glossary.md", "reference": "maximal marginal relevance relevant different near-duplicates"}
+{"id": "hallucination", "question": "How do I stop the model from making things up?", "expect_route": "docs", "expect_source": "rag-glossary.md", "reference": "hallucination grounding citations"}
+{"id": "loaded-models", "question": "How can I see which models are in memory right now?", "expect_route": "docs", "expect_source": "ollama-notes.md", "reference": "ollama shows models loaded memory"}
+{"id": "embed-dims", "question": "How big are the vectors from the embedding model?", "expect_route": "docs", "expect_source": "ollama-notes.md", "reference": "nomic-embed-text 768-dimensional vectors"}
+{"id": "greeting", "question": "hey, how are you?", "expect_route": "general", "expect_source": "", "reference": ""}
+{"id": "thanks", "question": "thanks, that was helpful!", "expect_route": "general", "expect_source": "", "reference": ""}

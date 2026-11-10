@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# Environments
+.venv/
+venv/
+.env
+
+# ragmate runtime state: the Chroma vector store, ingest manifest and uploads (RAGMATE_HOME)
+.ragmate/
+chroma/
+results.json
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
